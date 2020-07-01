@@ -8,4 +8,7 @@ let instructor = {
   sayHello: function () {
     console.log("Hi, I'm Menawer");
   },
-};
+
+
+
+name="menawer"
